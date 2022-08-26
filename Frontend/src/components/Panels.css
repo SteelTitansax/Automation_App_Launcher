@@ -1,0 +1,24 @@
+.panels
+{
+margin-top: 0px!important;
+}
+.image-panel{
+    margin-top:0%;
+    margin-left:15%;
+    height:80%;
+    width:70%!important;
+}
+
+.image-panel-sorted{
+    margin-top:0%;
+    margin-left:25%;
+    height:80%;
+    width:50%!important;
+}
+
+.image-panel-bots{
+    margin-top:0%;
+    margin-left:30%;
+    height:85%;
+    width:40%!important;
+}
